@@ -5,4 +5,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Haldhardwivedi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldhardwivedi)](https://github.com/haldhardwivedi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldhardwivedi&layout=compact)](https://github.com/haldhardwivedi/github-readme-stats)
+
