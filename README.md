@@ -4,8 +4,5 @@
 - 📫 How to reach me:https://www.linkedin.com/in/haldhardwivedi/
 - 📫 Email:haldhardwivedi@gmail.com
 - ⚡ Competitive Programming profiles
--   <ul>
-  -   <li><a href="https://www.codechef.com/users/haldhardwivedi>Codechef</a></li>
--   <ul>
--   
+-   <a href="https://www.codechef.com/users/haldhardwivedi>Codechef</a>
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=Haldhardwivedi)
