@@ -4,3 +4,5 @@
 - 📫 How to reach me   [Linkedin](https://www.linkedin.com/in/haldhardwivedi)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Haldhardwivedi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldhardwivedi)](https://github.com/haldhardwivedi/github-readme-stats)
