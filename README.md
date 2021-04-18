@@ -3,7 +3,7 @@
 - Competitive Programming Profiles   [Codechef](https://www.codechef.com/users/haldhardwivedi) [Codeforces](https://codeforces.com/profile/haldhardwivedi)
 - 📫 How to reach me   [Linkedin](https://www.linkedin.com/in/haldhardwivedi)
   
-            ![Github stats](https://github-readme-stats.vercel.app/api?username=Haldhardwivedi)
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=Haldhardwivedi)
 
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldhardwivedi&layout=compact)](https://github.com/haldhardwivedi/github-readme-stats)
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldhardwivedi&layout=compact)](https://github.com/haldhardwivedi/github-readme-stats)
 
