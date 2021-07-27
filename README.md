@@ -1,5 +1,5 @@
  
- - 🌱 I’m a  3rd year CSE student at IIITDM kancheepuram visit [here](https://haldhardwivedi.github.io/) Know more about me </br>
+ - 🌱 I’m a  4th year CSE student at IIITDM kancheepuram visit [here](https://haldhardwivedi.github.io/) Know more about me </br>
  -  Competitive Programming Profiles   [Codechef](https://www.codechef.com/users/haldhardwivedi) [Codeforces](https://codeforces.com/profile/haldhardwivedi)</br>
  -  📫 Reach me on [Linkedin](https://www.linkedin.com/in/haldhardwivedi)</br>
 
